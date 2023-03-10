@@ -21,5 +21,4 @@ function action(){
 	document.querySelector(".burger__line-1").classList.toggle('line-1');
 	document.querySelector(".burger__line-2").classList.toggle('line-2');
 	document.querySelector(".burger__line-3").classList.toggle('line-3');
-	console.log(content.classList.contains('_active'));
 }
